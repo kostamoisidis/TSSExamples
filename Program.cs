@@ -307,8 +307,8 @@ namespace TSStest
             }
 
             // Supply with paths
-            string pathHandle = @"C:\Users\Kostas\Desktop\handle";
-            string pathCipher = @"C:\Users\Kostas\Desktop\ctext";
+            string pathHandle = @"C:\";
+            string pathCipher = @"C:\";
 
             var scheme = new SchemeOaep(TpmAlgId.Sha1);
             var message = new byte[] { 1, 2, 3 };
