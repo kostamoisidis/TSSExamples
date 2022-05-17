@@ -1,5 +1,5 @@
 # TSSExamples
-This C# app implements some examples of TMP usage with Microsoft.TSS Library.
+This C# app implements some examples of TPM usage with Microsoft.TSS Library.
 
 Main focus is made on preserving Persistent key handles through application rerun. Used code snippets can found in [TSS.MSR](https://github.com/microsoft/TSS.MSR) repository.
 
